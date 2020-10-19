@@ -35,12 +35,12 @@ And this dependency:
   <dependency>
 		<groupId>org.antlr</groupId>
 		<artifactId>antlr4gwt-runtime</artifactId>
-		<version>4.4.1</version>
+		<version>4.8.2</version>
 	</dependency>
 	<dependency>
 		<groupId>org.antlr</groupId>
 		<artifactId>antlr4gwt-annotations</artifactId>
-		<version>4.4.2</version>
+		<version>4.8.2</version>
 	</dependency>
 	...
 </dependencies>
